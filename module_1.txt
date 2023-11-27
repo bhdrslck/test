@@ -1,6 +1,2 @@
 # deneme satırı eklendi.bu kısım lokalde eklendi.
-dfgdfgdf
-gdfg
-dfg
-dfg
-dfg
+# deneme satırı eklendi.dfdfgdfg. bu kısım yine browser üzerinden eklendi.
